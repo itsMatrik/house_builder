@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/house_builder/static/css/main.46d8c89e.css",
+    "main.js": "/house_builder/static/js/main.6d15015e.js",
+    "index.html": "/house_builder/index.html",
+    "main.46d8c89e.css.map": "/house_builder/static/css/main.46d8c89e.css.map",
+    "main.6d15015e.js.map": "/house_builder/static/js/main.6d15015e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46d8c89e.css",
+    "static/js/main.6d15015e.js"
+  ]
+}
