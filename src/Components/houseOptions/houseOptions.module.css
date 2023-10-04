@@ -1,0 +1,39 @@
+.main {
+    padding: 10px;
+    background-color: white;
+    border-bottom: 1px solid lightgray;
+}
+
+.container {
+    display: flex;
+    gap: 180px;
+}
+
+.flexContainer {
+    display: flex;
+    margin-bottom: 10px;
+    gap: 5px;
+}
+
+.h1 {
+    font-size: 25px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.text {
+    font-size: 20px;
+}
+
+.input {
+    width: 30px;
+}
+
+.slider {
+    width: 300px;
+}
+
+.button {
+    display: inline-block;
+    margin-left: 120px;
+}
