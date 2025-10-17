@@ -1,5 +1,5 @@
 {
-  "homepage": "http://tsMatrik.github.io/house_builder",
+  "homepage": "https://tsMatrik.github.io/house_builder",
   "name": "house_builder",
   "version": "0.1.0",
   "private": true,
@@ -18,7 +18,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run buil",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
